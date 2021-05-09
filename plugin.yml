@@ -1,0 +1,22 @@
+name: CodZombies
+version: 1.0
+author: jonasek369
+main: me.jonas.zombies.Main
+api-version: 1.16
+description: cod zomnbies in minecraft
+
+commands:
+  start:
+    description: starts everthing
+  stopz:
+    description: stops everything
+  leave:
+    description: leaves lobby
+  join:
+    description: joins lobby
+  removezombiespawn:
+    description: removes zombie spawn
+  setzombiespawn:
+    description: sets zombie spawn
+  balance:
+    description: shows your balance
