@@ -1,6 +1,6 @@
 # Minecraft-cod-zombies-plugin
-Plugin for minecraft that should replicate CoD zombies
-this is still in progress !
+Plugin for Minecraft that should replicate CoD zombies
+this is still in progress!
 
 
 # If you found any bug
