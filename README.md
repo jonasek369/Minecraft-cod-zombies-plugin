@@ -11,6 +11,6 @@ please contact me on my discord with the screenshot of the bug Thanks jonasek369
 # Tasks
 
 - [x] Mysterybox
-- [ ] create PowerUps
+- [x] create PowerUps
 - [ ] make zombiespawnslocation saveble to file
 - [ ] add to spigot if i complete this plugin
